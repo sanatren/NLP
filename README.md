@@ -1,1 +1,1 @@
-all the repos related to learnings of nlp and basics.
+This repository is designed to serve as a comprehensive resource for anyone starting their journey in Natural Language Processing (NLP). It consolidates practical examples and hands-on implementations of foundational NLP techniques and methods.
